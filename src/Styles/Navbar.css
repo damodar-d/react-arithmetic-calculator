@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+}
+nav{
+    background-color: hwb(208 36% 0%);
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    color: white;
+}
+h1{
+    margin: 6px;
+}
